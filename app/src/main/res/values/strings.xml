@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="programming_langs">
+        <item>Golang</item>
+        <item>HTML</item>
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>Python</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Golang is a great OOP</item>
+        <item>HTML is the prince of the web</item>
+        <item>Java is a sucker for android</item>
+        <item>Javascript is a multitasking biatch</item>
+        <item>Python is an AI geek</item>
+
+    </string-array>
+</resources>
