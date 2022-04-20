@@ -8,7 +8,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 String languages[],desc[];
-int images[] = {R.drawable.golang, R.drawable.html,R.drawable.java,R.drawable.javascript,R.drawable.python};
+int images[] = {R.drawable.golang, R.drawable.html,R.drawable.java,R.drawable.javascript,R.drawable.python,R.drawable.golang, R.drawable.html,R.drawable.java,R.drawable.javascript,R.drawable.python};
 RecyclerView recyclerView ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
